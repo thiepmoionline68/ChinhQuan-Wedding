@@ -333,7 +333,6 @@ body {
 .name {
     display: grid;
     justify-items: center;
-    row-gap: 40px;
     text-align: center;
     padding: 80px 0;
 }
